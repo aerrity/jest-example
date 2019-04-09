@@ -1,6 +1,6 @@
 ```
-mkdir jest-example
+git clone https://github.com/aerrity/jest-example.git
 cd jest-example
-npm init
-npm install --save-dev jest
+npm install
+npm run test
 ```
